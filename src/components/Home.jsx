@@ -3,7 +3,6 @@ import { IoIosInfinite } from "react-icons/io";
 
 const Home = () => {
 
-    // make a workable counter
     const [count, setCount] = useState(0);
 
     var audio = new Audio('/src/assets/pause.wav');
