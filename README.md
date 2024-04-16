@@ -3,6 +3,7 @@
 ### Features :
 - Tasbih (4 Modes)
 - Jikirs and Duas
+- Access to Quran.com 
 - Light and dark mode
 - Responsive for all devices
 
