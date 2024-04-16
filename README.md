@@ -12,4 +12,5 @@
 - React Router Dom
 - React Icons
 
+---
 #### Designed and developed by Fabian Roy
