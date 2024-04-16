@@ -1,8 +1,17 @@
-# React + Vite
+# Jikir App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Features :
+- Tasbih (4 Modes)
+- Jikirs and Duas
+- Access to Quran.com 
+- Light and dark mode
+- Responsive for all devices
 
-Currently, two official plugins are available:
+### Packages Used : 
+- Tailwind CSS
+- DaisyUI
+- React Router Dom
+- React Icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+#### Designed and developed by Fahad Rahman
