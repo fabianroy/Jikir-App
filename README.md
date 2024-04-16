@@ -14,4 +14,4 @@
 - React Icons
 
 ---
-#### Designed and developed by Fabian Roy
+#### Designed and developed by Fahad Rahman
