@@ -6,7 +6,7 @@ const Home = () => {
     // make a workable counter
     const [count, setCount] = useState(0);
 
-    var audio = new Audio('/src/assets/pause.wav');
+    var audio = new Audio('pause.wav');
 
     const handleClick = () => {
         setCount(count + 1);
